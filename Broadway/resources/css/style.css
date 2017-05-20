@@ -1,13 +1,16 @@
 
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
 h1,
 .header {
   background-image: url("/Users/Odette/GitHub/Broadway/resources/images/the-flatiron-building.png");
-  background-position: center;
-  align-items: center;
+
 }
 
 h1 {
-  font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
@@ -15,8 +18,35 @@ h1 {
 }
 
 .header {
-  font-family: Helvetica;
   font-size: 18px;
   color: white;
-  align-items: center;
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+h2 {
+font-size: 32px;
+font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  margin: 0;
+  text-align: left;
+  list-style: none;
+
 }
