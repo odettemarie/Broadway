@@ -1,0 +1,22 @@
+
+h1,
+.header {
+  background-image: url("/Users/Odette/GitHub/Broadway/resources/images/the-flatiron-building.png");
+  background-position: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+
+}
+
+.header {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  align-items: center;
+}
